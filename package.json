@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/senf824/react-scaffold/issues"
   },
-  "homepage": "https://github.com/senf824/react-scaffold#readme"
+  "homepage": "https://github.com/senf824/react-scaffold#readme",
+  "dependencies": {
+    "yarn": "^1.17.3"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
 }
